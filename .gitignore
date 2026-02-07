@@ -1,0 +1,25 @@
+# node.js
+node_modules/
+.turbo/
+dist/
+build/
+.pnpm-store/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# next.js
+.next/
+out/
+
+# env
+.env
+.env.*
+!.env.example
+
+# database
+/packages/database/generated/
+
+# system
+.DS_Store
+*.log

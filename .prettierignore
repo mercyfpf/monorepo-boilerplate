@@ -1,0 +1,8 @@
+node_modules
+.next
+dist
+.pnpm-store
+package-lock.json
+pnpm-lock.yaml
+.env
+.env.*

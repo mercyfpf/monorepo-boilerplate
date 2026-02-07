@@ -1,0 +1,13 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "private": true,
+  "main": "./index.js",
+  "type": "module",
+  "dependencies": {
+    "antd": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@ant-design/icons": "latest"
+  }
+}
